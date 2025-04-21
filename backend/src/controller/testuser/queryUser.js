@@ -1,2 +1,2 @@
 const getAllusers = `SELECT * FROM users`
- module.exports = {getAllusers};
+ module.exports = getAllusers;

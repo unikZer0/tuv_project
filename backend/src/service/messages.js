@@ -10,7 +10,8 @@ const errMessage = {
     resgisExist:'register Existed',
     login:'login fail',
     wrongSmt:'login fail wrong email or pass',
-    seeAll:'see all failed'
+    seeAll:'see all failed',
+    notMatch:'pass miss match'
 
 }
 module.exports = {
