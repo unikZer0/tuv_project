@@ -11,8 +11,11 @@ const errMessage = {
     login:'login fail',
     wrongSmt:'login fail wrong email or pass',
     seeAll:'see all failed',
-    notMatch:'pass miss match'
-
+    notMatch:'pass miss match',
+    requireField :'all field are require',
+    invEmail:'invalid email',
+    exists:'Email or phone exist',
+    server:'server error'
 }
 module.exports = {
     sucMessage,
